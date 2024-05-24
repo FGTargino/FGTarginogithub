@@ -3,6 +3,17 @@
 
 ![Anurag's GitHub stats]( https://github-readme-stats.vercel.app/api?username=FGTargino&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green)
 
+### Projetos
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FGTargino&repo=FGTargino&theme=dark)
+
+### Contatos:
+
+ ## [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#) +55 (85) 98523-8646
+ ## [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) FGTargino1@gmail.com
+ ## [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#) www.linkedin.com/in/guilherme-targino-fg
+
+
 ### 🧑‍💻 Linguagens de programação:
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)
@@ -60,3 +71,5 @@
 ### 💼 Trabalho e empregos:
 [![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)
+
+
